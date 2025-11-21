@@ -1,4 +1,4 @@
 Name: Ale Damilola
 Matric Number: 22CH031991 
-Live URL: 
-GitHub Repository: 
+Live URL: https://web-based-q-a-system-virid.vercel.app/
+GitHub Repository: https://github.com/Damilola-Ale/Web-based-Q-A-System
